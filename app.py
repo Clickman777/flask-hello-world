@@ -40,18 +40,6 @@ def webhook():
                             "images": "awaiting_review"
                         }
                     }
-                },
-                {
-                    "title": "Website Refresh",
-                    "status": "planning",
-                    "notes": {
-                        "goal": "improve clarity",
-                        "focus_area": "navigation",
-                        "assets": {
-                            "wireframes": "in_discussion",
-                            "branding": "confirmed"
-                        }
-                    }
                 }
             ]
         }
